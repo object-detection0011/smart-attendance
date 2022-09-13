@@ -1,0 +1,13 @@
+# smart-attendance
+Smart attendance through face recognition using python.
+
+{
+    "python.pythonPath": "C:\\Users\\name\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "off",
+    "debug.allowBreakpointsEverywhere": true
+    "files.autoSave": "off",
+    "debug.allowBreakpointsEverywhere": true
+    "files.autoSave": "off",
+    "debug.allowBreakpointsEverywhere": true
+}
